@@ -14,10 +14,6 @@
   "frameworks": {
     "net461": {
       "dependencies": {
-        "ClassLibrary2": {
-          "target": "project"
-        }
-
       }
     }
   },
