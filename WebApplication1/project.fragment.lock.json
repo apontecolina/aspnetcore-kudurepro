@@ -5,13 +5,13 @@
       "type": "project",
       "framework": ".NETFramework,Version=v4.6.1",
       "compile": {
-        "bin/Release/ClassLibrary2.dll": {}
+        "bin/Debug/ClassLibrary2.dll": {}
       },
       "runtime": {
-        "bin/Release/ClassLibrary2.dll": {}
+        "bin/Debug/ClassLibrary2.dll": {}
       },
       "contentFiles": {
-        "bin/Release/ClassLibrary2.pdb": {
+        "bin/Debug/ClassLibrary2.pdb": {
           "buildAction": "None",
           "codeLanguage": "any",
           "copyToOutput": true
