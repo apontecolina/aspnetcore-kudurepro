@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApplication1", "WebApplication1\WebApplication1.xproj", "{21C12CA4-FDB2-41AA-96A2-6708EB87C375}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{BCC4DCFB-DEB2-42B9-B986-FF604E4DF3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{4FBAA2B4-2688-4F73-9F5D-489BA9498573}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21C12CA4-FDB2-41AA-96A2-6708EB87C375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21C12CA4-FDB2-41AA-96A2-6708EB87C375}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21C12CA4-FDB2-41AA-96A2-6708EB87C375}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21C12CA4-FDB2-41AA-96A2-6708EB87C375}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCC4DCFB-DEB2-42B9-B986-FF604E4DF3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BCC4DCFB-DEB2-42B9-B986-FF604E4DF3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC4DCFB-DEB2-42B9-B986-FF604E4DF3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC4DCFB-DEB2-42B9-B986-FF604E4DF3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBAA2B4-2688-4F73-9F5D-489BA9498573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBAA2B4-2688-4F73-9F5D-489BA9498573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBAA2B4-2688-4F73-9F5D-489BA9498573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBAA2B4-2688-4F73-9F5D-489BA9498573}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
