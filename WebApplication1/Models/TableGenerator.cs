@@ -1,5 +1,5 @@
 ﻿using System;
-namespace MultiplicationTable.Models
+namespace WebApplication1.Models
 {
     public class TableGenerator
     {

@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace MultiplicationTable
+namespace WebApplication1
 {
     public class RouteConfig
     {
